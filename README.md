@@ -8,4 +8,4 @@ ________________________________________________________________________________
 3. Elaboracion de un documento .md para documentar los procesos llevados acabo en un desarrollo
 4. Estuctura basica de una pagina y un documento .html, cambiar el estilo del cuerpo de la pagina, haciendo uso de la propiedad style dentro de la etiqueta ```<body>```, para de esta forma darle un tono agua marina al fondo y modificando la preferencia de posicion del titulo, este utilizando una etiqueta ```<h1>```
 
-Link tarea: https://github.com/JMRodriguezV98/Reto1-Modulo0-Academia-Geek/issues/1#issue-1196714267
+Link tarea: https://reto1modulo0academiageek.netlify.app
